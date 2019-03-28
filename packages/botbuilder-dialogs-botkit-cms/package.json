@@ -1,6 +1,6 @@
 {
   "name": "botbuilder-dialogs-botkit-cms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bot Builder Dialogs backed by Botkit-CMS",
   "main": "lib/index.js",
   "scripts": {
