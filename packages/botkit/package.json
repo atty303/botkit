@@ -1,6 +1,6 @@
 {
   "name": "botkit",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "building blocks for building bots",
   "main": "lib/index.js",
   "scripts": {
